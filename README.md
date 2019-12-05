@@ -6,3 +6,6 @@
 
 # þetta er fontinn
 ### https://fonts.google.com/?query=Bungee&selection.family=Bungee+Inline
+
+# hérna er verkefnið
+## [verkefni 7](https://viktor-03.veflokverkefni/verkefni7vef/verkefniLOKvef.html)
